@@ -11,7 +11,7 @@
             </b-row>
             <b-row class="mt-3" align-h="center">
                 <b-col sm="1">
-                    <b-button @click="swap" variant="success">Swap!</b-button>
+                    <b-button @click="swap" variant="success">Swap cards!</b-button>
                 </b-col>
             </b-row>
         </b-container>
